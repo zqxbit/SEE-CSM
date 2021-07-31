@@ -36,5 +36,5 @@ $ roslaunch semantic_bki kitti_node.launch
 ```
 
 
-<img src="https://github.com/BIT-DYN/SEE-CSM/blob/main/image/25truth.png" width="300">
-<img src="https://github.com/BIT-DYN/SEE-CSM/blob/main/image/25.png" width="300">
+<img src="https://github.com/BIT-DYN/SEE-CSM/blob/main/image/25truth.png" width="900">
+<img src="https://github.com/BIT-DYN/SEE-CSM/blob/main/image/25.png" width="900">
