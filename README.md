@@ -1,8 +1,8 @@
 # BKISemanticMapping
 Bayesian Spatial Kernel Smoothing for Scalable Dense Semantic Mapping
 
-<img src="https://raw.githubusercontent.com/ganlumomo/BKISemanticMapping/master/github/toy_example_semantic_csm.png" width="300"><img src="https://raw.githubusercontent.com/ganlumomo/BKISemanticMapping/master/github/toy_example_semantic_bki.png" width="300">
-<img src="https://raw.githubusercontent.com/ganlumomo/BKISemanticMapping/master/github/toy_example_semantic_csm_variance.png" width="300"><img src="https://raw.githubusercontent.com/ganlumomo/BKISemanticMapping/master/github/toy_example_semantic_bki_variance.png" width="300">
+<img src="https://github.com/BIT-DYN/SEE-CSM/blob/main/image/CSM.png" width="300"><img src="https://github.com/BIT-DYN/SEE-CSM/blob/main/imag/BKI.png" width="300">
+<img src="https://github.com/BIT-DYN/SEE-CSM/blob/main/image/DYN.png" width="300">
 
 This is a novel continuous semantic mapping algorithm, which can complete dense semantic map reconstruction more efficiently.
 
@@ -30,9 +30,9 @@ catkin_ws$ source ~/catkin_ws/devel/setup.bash
 $ roslaunch semantic_bki toy_example_node.launch
 ```
 
-
 ### Running
 ```bash
 $ roslaunch semantic_bki kitti_node.launch
 ```
-You will see semantic map in RViz. It also projects 3D grid onto 2D image for evaluation, stored at data/data_kitti_05/reproj_img.
+<img src="https://github.com/BIT-DYN/SEE-CSM/blob/main/image/25png" width="300">
+<img src="https://github.com/BIT-DYN/SEE-CSM/blob/main/image/25_truth.png" width="300">
