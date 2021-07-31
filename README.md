@@ -1,8 +1,8 @@
 # BKISemanticMapping
 Bayesian Spatial Kernel Smoothing for Scalable Dense Semantic Mapping
 
-<img src="https://github.com/BIT-DYN/SEE-CSM/blob/main/image/CSM.png" width="300"><img src="https://github.com/BIT-DYN/SEE-CSM/blob/main/image/BKI.png" width="300">
-<img src="https://github.com/BIT-DYN/SEE-CSM/blob/main/image/DYN.png" width="300">
+<img src="https://github.com/BIT-DYN/SEE-CSM/blob/main/image/CSM.png" width="250"><img src="https://github.com/BIT-DYN/SEE-CSM/blob/main/image/BKI.png" width="250">
+<img src="https://github.com/BIT-DYN/SEE-CSM/blob/main/image/DYN.png" width="250">
 
 This is a novel continuous semantic mapping algorithm, which can complete dense semantic map reconstruction more efficiently.
 
