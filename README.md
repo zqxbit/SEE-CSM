@@ -1,10 +1,10 @@
-# BKISemanticMapping
-Bayesian Spatial Kernel Smoothing for Scalable Dense Semantic Mapping
+# SEE-CSM
+SEE-CSM: Sharp-Edged and Efficient Continous Semantic Mapping through Multi-entropy Kernel Inference 
 
 <img src="https://github.com/BIT-DYN/SEE-CSM/blob/main/image/CSM.png" width="250"><img src="https://github.com/BIT-DYN/SEE-CSM/blob/main/image/BKI.png" width="250">
 <img src="https://github.com/BIT-DYN/SEE-CSM/blob/main/image/DYN.png" width="250">
 
-This is a novel continuous semantic mapping algorithm, which can complete dense semantic map reconstruction more efficiently.
+This is a novel continuous semantic mapping algorithm, which can complete dense but not thick semantic map reconstruction efficiently.
 
 ## Getting Started
 
